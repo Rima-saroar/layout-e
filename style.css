@@ -1,0 +1,64 @@
+
+*{
+    margin: 0;
+}
+
+
+header{
+    height: 100px;
+    width: 100%;
+    background-color: burlywood;
+    font-size: 30px;
+    text-align: center;
+}
+
+
+
+.navigation bar{
+
+}
+
+.menubar{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(95, 67, 29);
+    font-size: 30px;
+    text-align: center; 
+}
+
+.body{
+    overflow: hidden;
+
+}
+
+
+.index{
+
+height: 500px;
+width: 30%;
+background-color: rgb(128, 108, 82);
+float: left;
+font-size: 30px;
+
+
+}
+
+
+.content{
+    height: 500px;
+    width: 70%;
+    background-color: rgb(226, 198, 162);
+    float: right;
+    font-size: 30px;
+}
+
+
+
+
+footer{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(67, 61, 59);
+    font-size: 30px;
+    text-align: center;
+}
